@@ -4,6 +4,8 @@ app_publisher = "TomekA"
 app_description = "opis apki ..."
 app_email = "tomasz.andrzejczak@kif.info.pl"
 app_license = "mit"
+# exportuj wszystkie własne DocType’y
+fixtures = ["DocType"]
 
 # Apps
 # ------------------
